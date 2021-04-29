@@ -1,0 +1,109 @@
+.rectangle8 {
+  position: absolute;
+  top: 356px;
+  left: 392px;
+  width: 523px;
+  height: 519px;
+  background: #f2faff 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 0px 36px;
+  opacity: 1;
+}
+.all {
+  position: absolute;
+  top: 380px;
+  left: 428px;
+  width: 135px;
+  height: 19px;
+  text-align: left;
+  font: normal normal bold 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #123043;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.coor {
+  position: absolute;
+  top: 450px;
+  left: 428px;
+  width: 49px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #123043;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.default {
+  position: absolute;
+  top: 450px;
+  left: 731px;
+  width: 34px;
+  height: 19px;
+  text-align: left;
+  font: normal normal bold 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #707070;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.default2 {
+  position: absolute;
+  top: 450px;
+  left: 839px;
+  width: 34px;
+  height: 19px;
+  text-align: left;
+  font: normal normal bold 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #707070;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.show {
+  position: absolute;
+  top: 794px;
+  left: 428px;
+  width: 445px;
+  height: 42px;
+  background: #c6d1d9 0% 0% no-repeat padding-box;
+  border-radius: 21px;
+  text-align: center;
+  font: normal normal bold 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #838a8f;
+  opacity: 1;
+}
+.map {
+  position: absolute;
+  top: 356px;
+  left: 915px;
+  width: 614px;
+  height: 519px;
+  border-radius: 0px 0px 36px 0px;
+  opacity: 1;
+}
+.pointer {
+  position: absolute;
+  top: 534px;
+  left: 1191px;
+  width: 17px;
+  height: 17px;
+  background: #2970e8 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 6px #00000063;
+  border: 2px solid #ffffff;
+  border-radius: 50px;
+  opacity: 1;
+}
+.my {
+  position: absolute;
+  top: 423px;
+  left: 428px;
+  width: 103px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #123043;
+  opacity: 1;
+}

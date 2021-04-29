@@ -1,0 +1,31 @@
+.rectangle1 {
+  position: absolute;
+  top: 205px;
+  left: 392px;
+  width: 1137px;
+  height: 670px;
+  background: #074770 0% 0% no-repeat padding-box;
+  border-radius: 36px;
+  opacity: 1;
+}
+#artbox {
+  width: 1920px;
+  height: 1080px;
+  background: #72a1bf 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.butt {
+  position: absolute;
+  top: 29px;
+  left: 32px;
+  width: 84px;
+  height: 42px;
+  background: #f2faff 0% 0% no-repeat padding-box;
+  border-radius: 50px;
+  text-align: left;
+  font: normal normal normal 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #a0a3a5;
+  text-transform: uppercase;
+  opacity: 1;
+}
